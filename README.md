@@ -2,6 +2,10 @@
 
 An Freelance E-Commerce Application Build for IT Products Shop
 
+### Database And Storage Used: Firebase
+
+### Payment Gateway : Razorpay
+
 
 Previews Of The Application:
 
@@ -43,7 +47,5 @@ Previews Of The Application:
 <img src="Previews/9.jpg" width="200">
 
 
-Database And Storage Used: Firebase
 
-Payment Gateway : Razorpay
 
