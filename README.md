@@ -2,6 +2,8 @@
 
 An Freelance E-Commerce Application Build for IT Products Shop
 
+DM for details https://www.linkedin.com/in/hardeep-singh-pahwa-0b5866135/
+
 ### Database And Storage Used: Firebase
 
 ### Payment Gateway : Razorpay
